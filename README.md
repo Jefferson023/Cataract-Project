@@ -5,4 +5,4 @@
 # How to run:
  ./catarata -i image_ppm_name/address_image -f format_of_entrance_image(PPM in the case)
 
-# by Moises Oliveira Catonio de Araujo and Jefferson Rhudson Pereira da Silva 
+by Moises Oliveira Catonio de Araujo and Jefferson Rhudson Pereira da Silva 
